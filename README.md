@@ -1,6 +1,6 @@
 # AndroidDLS
 
-## [AdapterLite.kt](https://github.com/rajumark/AndroidDLS/blob/main/AdapterLite.kt)
+## [AdapterLite.kt ⬇️](https://github.com/rajumark/AndroidDLS/blob/main/AdapterLite.kt)
 replace **adapter** to **adapterLite** 
 
 
@@ -15,3 +15,14 @@ replace **adapter** to **adapterLite**
         viewBinding = true
     }
 ```
+
+
+
+## [RootUtil.kt ⬇️](https://github.com/rajumark/AndroidDLS/blob/main/RootUtil.kt)
+check is android device **rooted** ?
+
+
+```kotlin
+    var isrooted=RootUtil.isDeviceRooted
+```
+
