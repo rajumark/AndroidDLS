@@ -26,3 +26,7 @@ check is android device **rooted** ?
     var isrooted=RootUtil.isDeviceRooted
 ```
 
+
+======================================
+* *More DLS coming soon... keep in touch❤️* *
+
