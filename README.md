@@ -27,6 +27,27 @@ check is android device **rooted** ?
 ```
 
 
+## [UserDefault.kt ⬇️](https://github.com/rajumark/AndroidDLS/blob/main/UserDefault.kt)
+* *shared preferences now more handy ways (less code less worry)* *
+ 
+#### Application Class
+ ```kotlin 
+        UserDefault.context=this
+ ``` 
+
+#### How to use this ?
+ create object class and create varible
+```kotlin 
+     object UDConst {
+         var userid by UserDefault(String::class.java)
+     }
+ ``` 
+#### Call Site
+```kotlin 
+      set value->  UDConst.userid = "android"
+      get value->  UDConst.userid
+ ``` 
+
 ======================================
 * *More DLS coming soon... keep in touch❤️* *
 
