@@ -19,7 +19,7 @@ class UserDefault<T : Any>(val klass: Class<T>) : ReadWriteProperty<Any?, T?> {
 
      object UDConst {
 
-         var userid: String? by UserDefault(String::class.java)
+         var userid  by UserDefault(String::class.java)
 
      }
       ====use case====
