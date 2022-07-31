@@ -1,4 +1,4 @@
-# AndroidDLS
+# AndroidDSL
 
 ## [AdapterLite.kt ⬇️](https://github.com/rajumark/AndroidDLS/blob/main/AdapterLite.kt)
 replace **adapter** to **adapterLite** 
