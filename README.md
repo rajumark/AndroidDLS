@@ -49,5 +49,5 @@ check is android device **rooted** ?
  ``` 
 
 ======================================
-* *More DLS coming soon... keep in touch❤️* *
+* *More DSL coming soon... keep in touch❤️* *
 
