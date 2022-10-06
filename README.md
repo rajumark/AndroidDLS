@@ -55,9 +55,9 @@ check is android device **rooted** ?
 buildFeatures {
         viewBinding true
     }
+#line
 
-
-// activity and lifecycle
+// activity and lifecyclelifecycle
     implementation 'androidx.activity:activity-ktx:1.5.1'
     implementation 'androidx.fragment:fragment-ktx:1.5.2'
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1"
